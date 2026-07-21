@@ -6,24 +6,6 @@
   <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
 </a>
 
-<br><br>
-
-<a href="https://github.com/Erdemtan13/Eng/releases/latest">
-  <img src="https://img.shields.io/badge/Windows-x64-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
-</a>
-
-<a href="https://github.com/Erdemtan13/Eng/releases/latest">
-  <img src="https://img.shields.io/badge/macOS-Intel-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS Intel">
-</a>
-
-<a href="https://github.com/Erdemtan13/Eng/releases/latest">
-  <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Apple Silicon">
-</a>
-
-<a href="https://github.com/Erdemtan13/Eng/releases/latest">
-  <img src="https://img.shields.io/badge/Linux-x64-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Download for Linux">
-</a>
-
 **Eng is a simple, English-based programming language designed to make programming easier to understand.**
 
 Instead of requiring complicated syntax, Eng lets you write code using plain, readable English.
