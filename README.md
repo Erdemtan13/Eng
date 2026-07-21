@@ -19,7 +19,7 @@ Eng is currently in the **pre-alpha stage**.
 This means that the language is still 
 very,
 very,
-**VERY 
+**VERY**
 early in development, and many important features may not exist yet.
 
 If you think Eng is missing a function that a programming language needs, please report it in the **Issues** tab.
