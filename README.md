@@ -109,6 +109,8 @@ If you find something missing, broken, or confusing, please open an issue.
 
 Before opening an issue, please check whether a similar issue already exists.
 
+Please check the wiki for further help on the language, especially <a href=https://github.com/Erdemtan13/Eng/wiki/Language-Reference>the Language Reference page</a>
+
 ## The Future of Eng
 
 Eng is intended to eventually become a complete programming language with an ecosystem of libraries.
